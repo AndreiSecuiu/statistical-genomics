@@ -3,6 +3,12 @@
 ## Overview
 This repository contains the final project for an introductory course to Bayesian Networks, taken in 2025/2026 with prof. Marco Grzegorczyk at the University of Groningen. The aim of the project is to present an optimization technique called simmulated annealing in the context of structure learning, and compare it to other established methods.
 
+<p align="center">
+  <span style="display: inline-block; text-align: center; margin: 0 6px;">
+    <img src="figure_for_README.png"/>
+  </span>
+</p>
+
 ## Project Structure
 This project is organized as follows:
 
